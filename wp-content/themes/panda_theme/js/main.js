@@ -35,6 +35,7 @@ jQuery(document).ready(function($) {
     return !(/[А-Яа-яA-Za-z ]/.test(String.fromCharCode(d.charCode)));
   }
 
+
   function validEmail(e) { 
     var filter = /^\s*[\w\-\+_]+(\.[\w\-\+_]+)*\@gmail.com/gi; 
     return String(e).search (filter) != -1; 
