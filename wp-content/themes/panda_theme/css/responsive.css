@@ -1,0 +1,126 @@
+@media (max-width: 989px){ 
+	.slogBlock {
+	font-size: 80px;	
+	}
+
+
+}
+@media (max-width: 841px){ 
+	.otvet {
+	font-size: 40px;
+	}	
+	.pandaslider{
+		margin-left: 10%;
+	}
+}
+
+@media (max-width: 782px){ 
+	
+	.pandaslider{
+		margin-left: 0%;
+
+	}
+	.pandaslider h3{
+		padding-left: 5px;
+	}
+	.navbar{
+		margin-bottom: 50px;
+
+	}
+}
+
+@media (max-width: 675px){ 
+	
+	.slogBlock {
+	font-size: 70px;	
+	}
+	.buttonYes{
+	margin-left: 15%;
+	}
+	.buttonNO{
+	margin-left: 20%;
+	}
+}
+@media (max-width: 675px){ 
+	.otvet {
+	font-size: 35px;	
+	}
+	.imginf{
+		float: none;
+		margin: 0 auto;
+	}
+	.FormPanda{
+		padding-left: 20px;
+	}
+}
+@media (max-width: 549px){ 
+	
+	.slogBlock {
+	font-size: 60px;	
+	}
+	.FormPanda{
+		margin-left: -20px;
+	}
+}
+
+@media (max-width: 535px){ 
+	.buttonYes{
+	margin-left: 10%;
+	}
+	.buttonNO{
+	margin-left: 15%;
+	}
+	.mapPanda{
+	width: auto;
+	height: 180px;
+	text-align: center;
+	
+}
+}
+@media (max-width: 499px){ 
+	.otvet {
+	font-size: 30px;
+	}	
+
+}
+@media (max-width: 428px){ 
+	.otvet {
+	font-size: 25px;
+	}
+	.mapPanda{
+		display: none;
+		
+	}
+	.FormPanda{
+		margin-left: -30px;
+	}
+}
+@media (max-width: 363px){ 
+	.otvet {
+	font-size: 20px;
+	}
+		.FormPanda{
+		margin-left: -50px;
+	}
+}
+@media (max-width: 346px){ 
+		.FormPanda{
+		margin-left: -70px;
+	}
+}
+@media (max-width: 320px){ 
+		.FormPanda{
+		margin-left: -80px;
+	}
+}
+@media (max-width: 307px){ 
+	.slogBlock {
+	font-size: 50px;	
+}
+	.otvet {
+	font-size: 20px;
+	}
+	.FormPanda{
+		margin-left: -20px;
+	}
+}
